@@ -1,8 +1,8 @@
 # is833project
 
 
-###Team
-Kenneth Woanyah - Project Manager
-Dipankar Dutta Chowdhury
-Yelim Woo
-Leon Chen
+### Team <br />. 
+Kenneth Woanyah - Project Manager <br />. 
+Dipankar Dutta Chowdhury <br />. 
+Yelim Woo <br />. 
+Leon Chen <br />. 
